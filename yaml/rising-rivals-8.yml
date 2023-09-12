@@ -1,0 +1,90 @@
+---
+id: pl2-8
+name: Lucario GL
+supertype: Pokémon
+subtypes:
+- Basic
+- SP
+level: '32'
+hp: '80'
+types:
+- Fighting
+abilities:
+- name: Boundary Aura
+  text: Apply Weakness for each Pokémon (both yours and your opponent's) as ×2 instead.
+  type: Poké-Body
+attacks:
+- name: Combo Throw
+  cost:
+  - Metal
+  - Colorless
+  - Colorless
+  convertedEnergyCost: 3
+  damage: 30+
+  text: Does 30 damage plus 10 more damage for each Energy attached to the Defending
+    Pokémon.
+weaknesses:
+- type: Psychic
+  value: "×2"
+retreatCost:
+- Colorless
+convertedRetreatCost: 1
+set:
+  id: pl2
+  name: Rising Rivals
+  series: Platinum
+  printedTotal: 111
+  total: 120
+  legalities:
+    unlimited: Legal
+  ptcgoCode: RR
+  releaseDate: 2009/05/16
+  updatedAt: 2020/08/14 09:35:00
+  images:
+    symbol: https://images.pokemontcg.io/pl2/symbol.png
+    logo: https://images.pokemontcg.io/pl2/logo.png
+number: '8'
+artist: Kagemaru Himeno
+rarity: Rare Holo
+nationalPokedexNumbers:
+- 448
+legalities:
+  unlimited: Legal
+images:
+  small: https://images.pokemontcg.io/pl2/8.png
+  large: https://images.pokemontcg.io/pl2/8_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/pl2-8
+  updatedAt: 2023/09/12
+  prices:
+    holofoil:
+      low: 3.7
+      mid: 6.75
+      high: 99.99
+      market: 8.76
+      directLow: 6.11
+    reverseHolofoil:
+      low: 4.0
+      mid: 6.95
+      high: 19.99
+      market: 9.92
+      directLow: 
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/pl2-8
+  updatedAt: 2023/09/12
+  prices:
+    averageSellPrice: 2.22
+    lowPrice: 0.3
+    trendPrice: 1.94
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 3.67
+    reverseHoloLow: 0.5
+    reverseHoloTrend: 4.28
+    lowPriceExPlus: 1.8
+    avg1: 2.99
+    avg7: 2.39
+    avg30: 3.15
+    reverseHoloAvg1: 2.9
+    reverseHoloAvg7: 3.67
+    reverseHoloAvg30: 3.33

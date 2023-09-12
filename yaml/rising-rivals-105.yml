@@ -1,0 +1,88 @@
+---
+id: pl2-105
+name: Flygon LV.X
+supertype: Pokémon
+subtypes:
+- Level-Up
+level: X
+hp: '140'
+types:
+- Colorless
+evolvesFrom: Flygon
+rules:
+- Put this card onto your Active Flygon. Flygon LV.X can use any attack, Poké-Power,
+  or Poké-Body from its previous level.
+abilities:
+- name: Wind Erosion
+  text: As long as Flygon is your Active Pokémon, discard the top card from your opponent's
+    deck between turns.
+  type: Poké-Body
+attacks:
+- name: Extreme Attack
+  cost:
+  - Colorless
+  - Colorless
+  - Colorless
+  convertedEnergyCost: 3
+  damage: ''
+  text: Choose 1 of your opponent's Pokémon LV.X. This attack does 150 damage to that
+    Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon).
+weaknesses:
+- type: Colorless
+  value: "×2"
+resistances:
+- type: Lightning
+  value: "-20"
+set:
+  id: pl2
+  name: Rising Rivals
+  series: Platinum
+  printedTotal: 111
+  total: 120
+  legalities:
+    unlimited: Legal
+  ptcgoCode: RR
+  releaseDate: 2009/05/16
+  updatedAt: 2020/08/14 09:35:00
+  images:
+    symbol: https://images.pokemontcg.io/pl2/symbol.png
+    logo: https://images.pokemontcg.io/pl2/logo.png
+number: '105'
+artist: Shizurow
+rarity: Rare Holo LV.X
+nationalPokedexNumbers:
+- 330
+legalities:
+  unlimited: Legal
+images:
+  small: https://images.pokemontcg.io/pl2/105.png
+  large: https://images.pokemontcg.io/pl2/105_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/pl2-105
+  updatedAt: 2023/09/12
+  prices:
+    holofoil:
+      low: 28.0
+      mid: 39.99
+      high: 42.74
+      market: 66.85
+      directLow: 34.34
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/pl2-105
+  updatedAt: 2023/09/12
+  prices:
+    averageSellPrice: 13.56
+    lowPrice: 6.9
+    trendPrice: 14.12
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 0.0
+    reverseHoloLow: 15.0
+    reverseHoloTrend: 12.17
+    lowPriceExPlus: 19.98
+    avg1: 15.25
+    avg7: 13.49
+    avg30: 17.9
+    reverseHoloAvg1: 6.0
+    reverseHoloAvg7: 15.74
+    reverseHoloAvg30: 14.17

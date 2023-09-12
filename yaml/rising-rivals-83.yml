@@ -1,0 +1,93 @@
+---
+id: pl2-83
+name: Staryu
+supertype: Pokémon
+subtypes:
+- Basic
+level: '18'
+hp: '50'
+types:
+- Water
+evolvesTo:
+- Starmie
+attacks:
+- name: Cosmic Draw
+  cost:
+  - Colorless
+  convertedEnergyCost: 1
+  damage: ''
+  text: If your opponent has any Evolved Pokémon in play, draw 3 cards.
+- name: Swift
+  cost:
+  - Water
+  convertedEnergyCost: 1
+  damage: '10'
+  text: This attack's damage isn't affected by Weakness, Resistance, Poké-Powers,
+    Poké-Bodies, or any other effects on the Defending Pokémon.
+weaknesses:
+- type: Lightning
+  value: "+10"
+retreatCost:
+- Colorless
+convertedRetreatCost: 1
+set:
+  id: pl2
+  name: Rising Rivals
+  series: Platinum
+  printedTotal: 111
+  total: 120
+  legalities:
+    unlimited: Legal
+  ptcgoCode: RR
+  releaseDate: 2009/05/16
+  updatedAt: 2020/08/14 09:35:00
+  images:
+    symbol: https://images.pokemontcg.io/pl2/symbol.png
+    logo: https://images.pokemontcg.io/pl2/logo.png
+number: '83'
+artist: Atsuko Nishida
+rarity: Common
+flavorText: If its body is torn, it can grow back if the red core remains. The core
+  flashes at midnight.
+nationalPokedexNumbers:
+- 120
+legalities:
+  unlimited: Legal
+images:
+  small: https://images.pokemontcg.io/pl2/83.png
+  large: https://images.pokemontcg.io/pl2/83_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/pl2-83
+  updatedAt: 2023/09/12
+  prices:
+    normal:
+      low: 0.09
+      mid: 0.25
+      high: 1.13
+      market: 0.28
+      directLow: 0.25
+    reverseHolofoil:
+      low: 0.4
+      mid: 0.69
+      high: 2.49
+      market: 1.0
+      directLow: 0.49
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/pl2-83
+  updatedAt: 2023/09/12
+  prices:
+    averageSellPrice: 0.09
+    lowPrice: 0.02
+    trendPrice: 0.08
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 0.0
+    reverseHoloLow: 0.1
+    reverseHoloTrend: 0.53
+    lowPriceExPlus: 0.02
+    avg1: 0.22
+    avg7: 0.1
+    avg30: 0.08
+    reverseHoloAvg1: 0.7
+    reverseHoloAvg7: 0.38
+    reverseHoloAvg30: 0.42

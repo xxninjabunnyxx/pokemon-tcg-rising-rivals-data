@@ -1,0 +1,93 @@
+---
+id: pl2-12
+name: Roserade GL
+supertype: Pokémon
+subtypes:
+- Basic
+- SP
+level: '22'
+hp: '80'
+types:
+- Grass
+attacks:
+- name: Poison Bind
+  cost:
+  - Colorless
+  convertedEnergyCost: 1
+  damage: '10'
+  text: The Defending Pokémon is now Poisoned and can't retreat during your opponent's
+    next turn.
+- name: Long Whip
+  cost:
+  - Grass
+  - Colorless
+  convertedEnergyCost: 2
+  damage: '30'
+  text: If the Defending Pokémon is affected by any Special Conditions, you may do
+    30 damage to any 1 Benched Pokémon instead. (Don't apply Weakness and Resistance
+    for Benched Pokémon.)
+weaknesses:
+- type: Fire
+  value: "×2"
+retreatCost:
+- Colorless
+convertedRetreatCost: 1
+set:
+  id: pl2
+  name: Rising Rivals
+  series: Platinum
+  printedTotal: 111
+  total: 120
+  legalities:
+    unlimited: Legal
+  ptcgoCode: RR
+  releaseDate: 2009/05/16
+  updatedAt: 2020/08/14 09:35:00
+  images:
+    symbol: https://images.pokemontcg.io/pl2/symbol.png
+    logo: https://images.pokemontcg.io/pl2/logo.png
+number: '12'
+artist: Kanako Eo
+rarity: Rare Holo
+nationalPokedexNumbers:
+- 407
+legalities:
+  unlimited: Legal
+images:
+  small: https://images.pokemontcg.io/pl2/12.png
+  large: https://images.pokemontcg.io/pl2/12_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/pl2-12
+  updatedAt: 2023/09/12
+  prices:
+    holofoil:
+      low: 2.0
+      mid: 4.0
+      high: 5.26
+      market: 4.72
+      directLow: 2.99
+    reverseHolofoil:
+      low: 2.94
+      mid: 5.5
+      high: 19.62
+      market: 5.14
+      directLow: 3.19
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/pl2-12
+  updatedAt: 2023/09/12
+  prices:
+    averageSellPrice: 2.19
+    lowPrice: 0.5
+    trendPrice: 1.97
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 3.9
+    reverseHoloLow: 0.7
+    reverseHoloTrend: 2.8
+    lowPriceExPlus: 0.8
+    avg1: 1.5
+    avg7: 1.8
+    avg30: 2.71
+    reverseHoloAvg1: 3.9
+    reverseHoloAvg7: 2.46
+    reverseHoloAvg30: 2.04

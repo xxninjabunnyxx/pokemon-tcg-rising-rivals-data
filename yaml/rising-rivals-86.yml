@@ -1,0 +1,92 @@
+---
+id: pl2-86
+name: Weedle
+supertype: Pokémon
+subtypes:
+- Basic
+level: '6'
+hp: '60'
+types:
+- Grass
+evolvesTo:
+- Kakuna
+attacks:
+- name: Rescue String
+  cost: []
+  convertedEnergyCost: 0
+  damage: ''
+  text: Search your discard pile for up to 5 Pokémon, show them to your opponent,
+    and shuffle them into your deck.
+- name: Needling Sting
+  cost:
+  - Grass
+  convertedEnergyCost: 1
+  damage: 10+
+  text: Flip a coin. If heads, this attack does 10 damage plus 10 more damage.
+weaknesses:
+- type: Fire
+  value: "+10"
+retreatCost:
+- Colorless
+convertedRetreatCost: 1
+set:
+  id: pl2
+  name: Rising Rivals
+  series: Platinum
+  printedTotal: 111
+  total: 120
+  legalities:
+    unlimited: Legal
+  ptcgoCode: RR
+  releaseDate: 2009/05/16
+  updatedAt: 2020/08/14 09:35:00
+  images:
+    symbol: https://images.pokemontcg.io/pl2/symbol.png
+    logo: https://images.pokemontcg.io/pl2/logo.png
+number: '86'
+artist: Ken Sugimori
+rarity: Common
+flavorText: It eats its weight in leaves every day. It fends off attackers with the
+  needle on its head.
+nationalPokedexNumbers:
+- 13
+legalities:
+  unlimited: Legal
+images:
+  small: https://images.pokemontcg.io/pl2/86.png
+  large: https://images.pokemontcg.io/pl2/86_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/pl2-86
+  updatedAt: 2023/09/12
+  prices:
+    normal:
+      low: 0.05
+      mid: 0.27
+      high: 10.0
+      market: 0.3
+      directLow: 0.1
+    reverseHolofoil:
+      low: 0.44
+      mid: 0.68
+      high: 1.99
+      market: 0.65
+      directLow: 0.39
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/pl2-86
+  updatedAt: 2023/09/12
+  prices:
+    averageSellPrice: 0.06
+    lowPrice: 0.02
+    trendPrice: 0.09
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 0.0
+    reverseHoloLow: 0.05
+    reverseHoloTrend: 0.7
+    lowPriceExPlus: 0.02
+    avg1: 0.05
+    avg7: 0.07
+    avg30: 0.11
+    reverseHoloAvg1: 0.49
+    reverseHoloAvg7: 0.57
+    reverseHoloAvg30: 0.56
